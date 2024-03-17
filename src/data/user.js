@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
+		title: "Ravkeerat Singh ",
 		name: "Ravkeerat Singh",
 		email: "ravkeerat_singh@outlook.com",
 	},
@@ -17,36 +17,31 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Ravkeerat Singh",
 		description:
-			"Designing immersive digital journeys with the magic of HTML, CSS, and JavaScript.",
+			"I'm Ravkeerat Singh, a recent graduate passionate about front-end development. Proficient in HTML, CSS, and React.js, I bring a keen eye for design and a drive for creating engaging user experiences. Eager to apply my skills in real-world projects, I thrive in collaborative environments and am committed to delivering polished, innovative solutions. Let's connect and explore how I can contribute to your team!",
 	},
 
 	projects: [
 		{
-			title: "Time Mastwer Application",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			title: "Time Master Application",
+			description: `
+				Lanaguages used: NodeJS , Express , MongoDB
+				Created a user-centric application for employees to manage schedules, clock in/out, and request time off.
+				Enriched functionality by implementing manager features for efficient employee management.`,
+			linkText: "Time Master",
+			link: "https://time-master.herokuapp.com/",
 		},
 
 		{
 			title: "CarHub",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-		{
-			title: "Landing Page",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			description: `
+				Languages: NodeJS , Express
+				Developed a web-based application enabling users to sort, filter, and search for specific cars by year and fuel mileage. 
+				Results feature detailed descriptions and images for enhanced user engagement.
+			`,
+			linkText: "Car Hub",
+			link: "https://car-hub-nine-rust.vercel.app/",
 		},
 	],
 };
